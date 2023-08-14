@@ -4601,3 +4601,39 @@ DirectSoundWaveData_sd90_classical_whistle::
 	.align 2
 DirectSoundWaveData_sd90_enhanced_delay_shaku::
 	.incbin "sound/direct_sound_samples/sd90_enhanced_delay_shaku.bin"
+
+	.align 2
+DirectSoundWaveData_rivalry_guitar::
+	.incbin "sound/direct_sound_samples/rivalry_guitar.bin"
+
+	.align 2
+DirectSoundWaveData_rivalry_powerchord::
+	.incbin "sound/direct_sound_samples/rivalry_powerchord.bin"
+
+	.align 2
+DirectSoundWaveData_bw2_classic_trumpet::
+	.incbin "sound/direct_sound_samples/bw2_classic_trumpet.bin"
+
+	.align 2
+DirectSoundWaveData_bw2_frhorn_1::
+	.incbin "sound/direct_sound_samples/bw2_frhorn_1.bin"
+
+	.align 2
+DirectSoundWaveData_bw2_frhorn_2::
+	.incbin "sound/direct_sound_samples/bw2_frhorn_2.bin"
+
+	.align 2
+DirectSoundWaveData_bw2_strings::
+	.incbin "sound/direct_sound_samples/bw2_strings.bin"
+
+	.align 2
+DirectSoundWaveData_bw2_tubbell::
+	.incbin "sound/direct_sound_samples/bw2_tubbells.bin"
+
+	.align 2
+DirectSoundWaveData_grv_crash::
+	.incbin "sound/direct_sound_samples/grv_crash.bin"
+
+	.align 2
+DirectSoundWaveData_rivalry_bass::
+	.incbin "sound/direct_sound_samples/rivalry_bass.bin"

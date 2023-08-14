@@ -9062,7 +9062,14 @@ extern const u16 gIntroPlayer_Pal[];
 extern const u16 gIntroFlygon_Pal[];
 extern const u32 gIntroFlygon_Gfx[];
 
-// party menu graphics
+// orre arc party menu graphics
+extern const u32 gOrrePartyMenuBg_Gfx[];
+extern const u32 gOrrePartyMenuBg_Tilemap[];
+extern const u32 gOrrePartyMenuNormalSlot_Pal[];
+extern const u32 gOrrePartyMenuShadowSlot_Pal[];
+extern const u32 gOrrePartyMenuHyperSlot_Pal[];
+
+// vanilla party menu graphics
 extern const u32 gPartyMenuBg_Gfx[];
 extern const u32 gPartyMenuBg_Tilemap[];
 extern const u32 gPartyMenuBg_Pal[];

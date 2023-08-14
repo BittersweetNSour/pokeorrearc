@@ -1613,6 +1613,12 @@ const u32 gBattleAnimSpritePal_Slash2[] = INCBIN_U32("graphics/battle_anims/spri
 const u32 gBattleAnimSpriteGfx_WhiteShadow[] = INCBIN_U32("graphics/battle_anims/sprites/white_shadow.4bpp.lz");
 const u32 gBattleAnimSpritePal_WhiteShadow[] = INCBIN_U32("graphics/battle_anims/sprites/white_shadow.gbapal.lz");
 
+const u32 gOrrePartyMenuBg_Gfx[] = INCBIN_U32("graphics/party_menu/orre_style_boxes.4bpp.lz");
+
+const u32 gOrrePartyMenuNormalSlot_Pal[] = INCBIN_U32("graphics/party_menu/orreboxes.gbapal.lz");
+const u32 gOrrePartyMenuShadowSlot_Pal[] = INCBIN_U32("graphics/party_menu/orreboxes_shadow.gbapal.lz");
+const u32 gOrrePartyMenuHyperSlot_Pal[] = INCBIN_U32("graphics/party_menu/orreboxes_hyper.gbapal.lz");
+
 const u32 gPartyMenuBg_Gfx[] = INCBIN_U32("graphics/party_menu/bg.4bpp.lz");
 const u32 gPartyMenuBg_Pal[] = INCBIN_U32("graphics/party_menu/bg.gbapal.lz");
 const u32 gPartyMenuBg_Tilemap[] = INCBIN_U32("graphics/party_menu/bg.bin.lz");
